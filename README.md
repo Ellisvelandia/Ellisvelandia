@@ -1,7 +1,8 @@
 <div id="header" align="center">
   <img
-    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-    width="400"
+    src="https://media.giphy.com/media/w9Sb2fZrLPxHUFxLV2/giphy.gif"
+    width="600"
+    height="300"   
   />
   <h1 align="center">Hi👋 , I'm Developer</h1>
   <h3 align="center">
@@ -11,6 +12,3 @@
   </h3>
 </div>
 
-<div id="badges" align="center">
-   [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellis-velandia-caicedo-8bb52423a/)](https://www.linkedin.com/in/ellis-velandia-caicedo-8bb52423a/)
-</div>
