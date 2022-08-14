@@ -1,9 +1,7 @@
 <div id="header" aling="center">
   <img
     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
-    max-width="100%"
     width="400"
-    style="display: flex; justify-content: center; align-items: center"
   />
   <h1 aling="center">Hi👋 , I'm Developer</h1>
   <h3 aling="center">
