@@ -2,7 +2,8 @@
   <img
     src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
     max-width="100%"
-       width="200"
+    width="200"
+    aling="center"
   />
   <h1 aling="center">Hi👋 , I'm Developer</h1>
   <h3 aling="center">
@@ -11,6 +12,7 @@
     patience and dedication help you to be a better professional.
   </h3>
 </div>
+
 
 
 Here are some ideas to get you started:
