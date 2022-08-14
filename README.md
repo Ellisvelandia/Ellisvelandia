@@ -54,7 +54,11 @@
   ---
   
   ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Ellisvelandia)
+---
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ellisvelandia&&theme=tokyolight" alt="Ellisvelandia" /></p>
+
+---
 </div>
 
 ---
