@@ -1,8 +1,8 @@
 <div id="header" align="center">
   <img
     src="https://media.giphy.com/media/w9Sb2fZrLPxHUFxLV2/giphy.gif"
-    width="800"
-    height="200"   
+    width="600"
+    height="250"   
   />
   <h1 align="center">Hi👋 , I'm Developer</h1>
   <h3 align="center">
