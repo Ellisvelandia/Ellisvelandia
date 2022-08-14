@@ -4,9 +4,7 @@
     alt=""
     allowFullScreen
     width="100%"
-    height="100%"
-    width="100%"
-    height="100%"
+    height="50%"
     style="position: absolute"
   />
   <h1 aling="center">Hi👋 , I'm Developer</h1>
