@@ -12,9 +12,5 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="linkedin.com/in/ellis-velandia-caicedo-8bb52423a"></a>
-  <img
-    src="[![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Ellisvelandia/)](https://www.linkedin.com/in/anirudhemmadi/)"
-    alt=""
-  />
+   [![Linkedin Badge](https://img.shields.io/badge/-anirudhemmadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ellis-velandia-caicedo-8bb52423a/)](https://www.linkedin.com/in/ellis-velandia-caicedo-8bb52423a/)
 </div>
