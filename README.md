@@ -19,7 +19,7 @@
       alt="Linkedin Badge"
     />
   </a>
-  <a href="mailto:eyis619@gmail.com">
+  <a href="eyis619@gmail.com">
     <img
       src="https://img.shields.io/badge/-Eyis619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link"
       alt="Gmail Badge"
