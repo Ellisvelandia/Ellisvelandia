@@ -4,7 +4,11 @@
     width="600"
     height="250"
   />
-  <video src="media/githubhappy.mp4" autoplay loop muted width="600" height="200"></video>
+  
+  <video autoplay loop muted>
+  <source src="media/githubhappy.mp4" type="video/mp4" width="200"/>
+  </video>
+
   <h1 align="center">Hi👋 , I'm Developer</h1>
   <h3 align="center">
     I am a passionate developer from Colombia, a full stack euphemism, I enter
