@@ -1,9 +1,22 @@
-<iframe src="https://giphy.com/embed/RkDZq0dhhYHhxdFrJB" width="270" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/cinemagraph-RkDZq0dhhYHhxdFrJB">via GIPHY</a></p>
- 
-### Hi there 👋
+<div id="header" aling="center">
+  <img
+    src="https://giphy.com/embed/RkDZq0dhhYHhxdFrJB"
+    alt=""
+    allowFullScreen
+    width="100%"
+    height="100%"
+    width="100%"
+    height="100%"
+    style="position: absolute"
+  />
+  <h1 aling="center">Hi👋 , I'm Developer</h1>
+  <h3 aling="center">
+    I am a passionate developer from Colombia, a full stack euphemism, I enter
+    day by day in the sea of programming because I am a faithful believer that
+    patience and dedication help you to be a better professional.
+  </h3>
+</div>
 
-<!--
-**Ellisvelandia/Ellisvelandia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
