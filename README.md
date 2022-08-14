@@ -28,8 +28,6 @@
     />
   </a>
   
-  <!-- YOUTUBE-VIDEOS-LIST:START -->
-  <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ---
 
