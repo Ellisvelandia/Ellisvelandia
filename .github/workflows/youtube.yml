@@ -11,7 +11,6 @@ on:
  rusn-on: ubuntu-latest
  steps:
  -uses: actions/chekoutv2
- -uses: gautamkrishnar/blog-post-workflow@master
  with: 
  comment_tag_name: "YOUTUBE-VIDEO"
  feed_list: "https://youtube.com/feeds/videos.xml?channel_id=vq2jYFZVMDA"
