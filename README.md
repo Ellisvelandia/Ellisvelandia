@@ -1,6 +1,6 @@
 <div id="header" aling="center">
   <img
-    src="https://giphy.com/embed/RkDZq0dhhYHhxdFrJB"
+    src="https://media.giphy.com/media/26ghtagZR44ErarWE/giphy.gif"
     alt=""
     allowFullScreen
     width="100%"
