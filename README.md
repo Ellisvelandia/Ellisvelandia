@@ -29,10 +29,6 @@
   </a>
   
 ---
-   <!-- YOUTUBE-VIDEOS-LIST:START -->
-   - [GitHub](https://www.youtube.com/watch?v=vq2jYFZVMDA)
-   <!-- YOUTUBE-VIDEOS-LIST:END -->
----
 
 ## 🐱‍💻 Technologies & Frameworks
 
