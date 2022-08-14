@@ -1,11 +1,8 @@
 <div id="header" aling="center">
   <img
-    src="https://media.giphy.com/media/26ghtagZR44ErarWE/giphy.gif"
-    alt=""
+    src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"
     allowFullScreen
     width="100%"
-    height="50%"
-    style="position: absolute"
   />
   <h1 aling="center">Hi👋 , I'm Developer</h1>
   <h3 aling="center">
