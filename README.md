@@ -21,7 +21,7 @@
   </a>
   <a href="mailto:eyis619@gmail.com">
     <img
-      src="https://img.shields.io/badge/-Eyis619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link"
+      src="https://img.shields.io/badge/-Eyis619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:eyis619@gmail.com"
       alt="Gmail Badge"
     />
   </a>
