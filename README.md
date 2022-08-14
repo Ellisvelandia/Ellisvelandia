@@ -15,8 +15,14 @@
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/Ellisvelandia">
     <img
-      src="https://img.shields.io/badge/-ellisvelandia-blue?style=flat-square&logo=Linkedin&logoColor=white&link"
+      src="https://img.shields.io/badge/-Ellisvelandia-blue?style=flat-square&logo=Linkedin&logoColor=white&link"
       alt="Linkedin Badge"
+    />
+  </a>
+  <a href="mailto:eyis619@gmail.com">
+    <img
+      src="https://img.shields.io/badge/-Eyis619@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link"
+      alt="Gmail Badge"
     />
   </a>
 </div>
