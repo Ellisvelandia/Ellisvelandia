@@ -1,16 +1,16 @@
-name: YouTube Video
+name: YouTube Videos
 on:
- schedule:
-    #Runs every hour
-    -cron: '0 * * * *'
- workflow_dispatch:
- 
- jobs: 
+  schedule:
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
   youtube:
- name: video from YouYube
- rusn-on: ubuntu-latest
- steps:
- -uses: actions/chekoutv2
- with: 
- comment_tag_name: "YOUTUBE-VIDEO"
- feed_list: "https://youtube.com/feeds/videos.xml?channel_id=vq2jYFZVMDA"
+    name: latest videos from YouTube
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "YOUTUBE-VIDEOS-LIST"
+          feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UC5mnBodB73bR88fLXHSfzYA"
